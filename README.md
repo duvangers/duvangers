@@ -32,3 +32,5 @@ const aboutMe = {
 <a href="https://www.linkedin.com/in/duvan-zuluaga" target="_blank"><img align="center" src="./Linkedin.png" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
 
 ## :pushpin: My projects:
+-🎮[Video Games App](https://github.com/duvangers/PI-Videogames)
+-👟[Henry Shoes App](https://app-henry-shoes.herokuapp.com/)
