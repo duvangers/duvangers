@@ -4,8 +4,10 @@
 <h1 align="center">Hi 👋, I'm Duvan Zuluaga</h1>
 
 
-<h3 align="center">Hola soy Duvan, Siempre he admirado el mundo digital con gran entusiasmo queriendo ser parte de él. Hoy puedo decir que finalmente encontré mi lugar: 💻la programación🔋, motivado a dejar mi huella en el mundo por medio de esta profesión teniendo como regla: ¡nunca parar de aprender!🚀
-Me considero una persona creativa determinada y adaptable a los cambios que surgen en este mundo inmenso de las tecnologías digitales. </h3>
+<h3 align="center">Hola! Soy Duvan, Full Stack Debele egresado del Bootcamp Henry con +800 horas de programación, experiencia en el desarrollo de varias Apps las cuales puedes visualizar en mi perfil, me caracterizo por: Trabajo en equipo, Adaptabilidad, resolución de problemas.
+
+
+Me apasiona los retos, enfrentándolos con una mentalidad abierta a nuevos conocimientos. Teniendo como meta nunca parar de aprender. 🔋 </h3>
 
 ```javascript
 const aboutMe = {
