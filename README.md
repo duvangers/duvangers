@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Duvan Zuluaga</h1>
 
 
-<h3 align="center">Hola soy Duvan, 😃Siempre he admirado el mundo digital con gran entusiasmo queriendo ser parte de él. Hoy puedo decir que finalmente encontré mi lugar: 💻la programación🔋, motivado a dejar mi huella en el mundo por medio de esta profesión teniendo como regla: ¡nunca parar de aprender!🚀
+<h3 align="center">Hola soy Duvan, Siempre he admirado el mundo digital con gran entusiasmo queriendo ser parte de él. Hoy puedo decir que finalmente encontré mi lugar: 💻la programación🔋, motivado a dejar mi huella en el mundo por medio de esta profesión teniendo como regla: ¡nunca parar de aprender!🚀
 Me considero una persona creativa determinada y adaptable a los cambios que surgen en este mundo inmenso de las tecnologías digitales. </h3>
 
 ```javascript
@@ -25,6 +25,10 @@ const aboutMe = {
 };
 ```
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**https://
 
-- 📫 How to reach me **duvangers@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/duvan-zuluaga" target="_blank"><img align="center" src="./Linkedin.png" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
+
+
