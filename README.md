@@ -25,10 +25,10 @@ const aboutMe = {
 };
 ```
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**https://
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My LinkedIn:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/duvan-zuluaga" target="_blank"><img align="center" src="./Linkedin.png" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
 
-
+## :pushpin: My projects:
