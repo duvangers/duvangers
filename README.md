@@ -33,4 +33,5 @@ const aboutMe = {
 
 ## :pushpin: My projects:
 -🎮[Video Games App](https://github.com/duvangers/PI-Videogames)
+
 -👟[Henry Shoes App](https://app-henry-shoes.herokuapp.com/)
