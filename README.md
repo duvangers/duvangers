@@ -10,7 +10,7 @@ Me considero una persona creativa determinada y adaptable a los cambios que surg
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
+   code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
@@ -20,11 +20,10 @@ const aboutMe = {
          js: ["Node", "Express"]
       },
       databases: ["PostgreSQL"],
-   },
-   currentOccupation: ["Tech Instructor at Henry"],
+   }
+ 
 };
 ```
-- 🌱 I’m currently learning **Kotlin, Python**
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
 
